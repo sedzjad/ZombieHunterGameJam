@@ -1,5 +1,5 @@
 # Zombie Hunter Game Jam
 
 Team:
-Erik
+Erik Kooijman
 Sedzjad Sheefe
